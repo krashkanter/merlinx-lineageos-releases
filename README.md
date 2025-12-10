@@ -1,3 +1,3 @@
 # merlinx-os-releases
 
-This repo has UNOFFICIAL releases for the now unmaintained merlinx (Redmi Note 9)
+This repo has UNOFFICIAL releases for merlinx (Redmi Note 9)
